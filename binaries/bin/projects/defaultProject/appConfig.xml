@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sinalgo>
+	<ProjectSelector windowWidth="800" windowHeight="600" lastChosenProject="lcr" windowPosX="1038" windowPosY="127" isMaximized="false" selectedTab="1" />
+	<GUI windowWidth="897" windowHeight="699" windowPosX="966" windowPosY="171" isMaximized="false" ControlPanelExpandSimulation="true" ControlPanelShowFullViewPanel="false" ControlPanelShowTextPanel="true" ControlPanelShowProjectControl="true" RunOperationIsLimited="true" helpWindowWidth="500" helpWindowHeight="500" helpWindowPosX="200" helpWindowPosY="200" helpWindowIsMaximized="false" />
+	<RandomSeed seedFromPreviousRun="2369184229699978714" />
+	<App lastSelectedFileDirectory="" checkForUpdatesAtStartup="false" updateCheckTimeStamp="0" runCmdLineArgs="" />
+	<GenNodesDlg numNodes="4" />
+</sinalgo>
+
